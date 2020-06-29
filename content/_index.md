@@ -10,7 +10,7 @@ title = "Hugo stratégia"
 # Célok:
 
 * Online My Hugo Strategy prezentáció
-* Online falatnyi.blog szerkesztés
+* Online falatnyi.blog
 
 ***
 
