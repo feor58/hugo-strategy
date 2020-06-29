@@ -1,14 +1,30 @@
 +++
 outputs = ["Reveal"]
-title = "Famous Programming Quotes"
+title = "Hugo stratégia"
 
 +++
-# Famous Programming Quotes
+# Hugo stratégia
 
 ---
 
-> "There are only two hard things in Computer Science: cache invalidation and naming things." -- Phil Karlton
+# Célok:
+* Online My Hugo Strategy prezentáció
+* Online falatnyi.blog
+
+---
+# Hugo stratégia elemei
+* Static Site Generator (hugo)
+* git / git provider (GitHub)
+* Web Publishing (netlify)
+* Headless CMS (forestry/netlify cms)
+* Data Provider integration
+* Application (e-commerce) integration 
 
 ---
 
-> “To me programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge.” -- Grace Hopper
+# Elvárások
+* Telepített hugo a lokál gépen
+* GitHub account
+* Netlify account
+* Forestry account
+
